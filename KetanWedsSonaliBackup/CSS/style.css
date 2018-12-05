@@ -1760,11 +1760,11 @@ padding-top:0px;
 .footer_top_sec p.phone{
 	text-align:left;
 	}
-.footer_top_sec p.mail{
-	text-align:center;
+.footer_top_sec p.phone2{
+	text-align:right;
 	}
 .footer_top_sec p.address{
-	text-align:right;
+	text-align:center;
 	}
 .footer_top_sec p img{
 	margin-right:15px;
